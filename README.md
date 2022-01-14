@@ -1,6 +1,6 @@
 live websit link : https://fakhermalik.github.io/fakhermalik/
 
-Name: fakherimam
+Name: Fakherimam
 
 Description of the project:  University Website Created By Using HTML/CSS
 
