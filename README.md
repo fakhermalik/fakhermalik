@@ -1,4 +1,4 @@
-live websit link : https://fakhermalik.github.io/fakhermalik/
+live websit link :https://fakhermalik.github.io/fakhermalik/
 
 Name: Fakherimam
 
